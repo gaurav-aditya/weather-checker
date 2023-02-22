@@ -20,6 +20,3 @@
 - After that it will automatically display Weather, Humidity, Wind Speed of the city.
 
 
-<h3> ScreenShots </h3>  
-<img src = "WeatherSample.png" alt="Sample Image">
-<br>
